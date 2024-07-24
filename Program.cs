@@ -4,7 +4,6 @@ namespace MyNamespace;
 
 class Program
 {
-    
     public static void Main()
     {
         Console.WriteLine(Consts.DESC);
@@ -41,4 +40,4 @@ class Program
             Console.WriteLine();
         }
     }
-} 
+}
