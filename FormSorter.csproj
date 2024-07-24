@@ -12,8 +12,4 @@
     <Content Include="ico.ico" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\SignCutter\SignCutter.csproj" />
-  </ItemGroup>
-
 </Project>
